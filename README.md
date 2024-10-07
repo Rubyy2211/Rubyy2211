@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [FutfemWeb](https://github.com/Rubyy2211/futfemweb.git)<br>🌱 I’m currently learning Grado Tecnologias Interactivas<br>⚡ Fun fact I love women's football
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rvby_22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rubygarciaa22) 
 
@@ -12,10 +11,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rubyy2211&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubyy2211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rubyy2211&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rubyy2211&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
